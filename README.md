@@ -14,7 +14,7 @@ and anywhere.
 [Github_theme](https://aman05382.github.io/movie_ticket_booking_system_php/)
 
 
-##  IMAGEE
+##  IMAGE
 <img src="img/screenshot/6.png">
 <img src="img/screenshot/7.png">
 <img src="img/screenshot/8.png">
@@ -23,5 +23,4 @@ and anywhere.
 <img src="img/screenshot/11.png">
 <img src="img/screenshot/13.png">
 <img src="img/screenshot/14.png">
-<img src="img/screenshot/15.png">
 
