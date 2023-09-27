@@ -21,6 +21,4 @@ and anywhere.
 <img src="img/screenshot/9.png">
 <img src="img/screenshot/10.png">
 <img src="img/screenshot/11.png">
-<img src="img/screenshot/13.png">
-<img src="img/screenshot/14.png">
 
